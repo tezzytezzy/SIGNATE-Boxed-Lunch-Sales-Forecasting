@@ -21,7 +21,7 @@ Scored on the RMSE (Root Mean Squared Error)
 Details : https://signate.jp/competitions/24
 
 
-**[Set up]**
+**[Set Up]**
 ---
-1. Clone fastai via git clone https://github.com/fastai/fastai
+1. Clone fastai via "git clone`https://github.com/fastai/fastai"
 2. Install missing dependent packages as per https://medium.com/@GuruAtWork/fast-ai-lesson-1-7fc38e978d37
